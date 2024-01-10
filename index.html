@@ -1,0 +1,65 @@
+<!-- <Вставка helper> — Блок ОТКРЫТ:↓▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬↓-->
+<!DOCTYPE html>
+<html lang="en">
+
+<head>
+	<meta charset="UTF-8">
+	<!--Отключаем форматирование ссылки у номера телефона на IOS - <meta name="format-detection" content="telephon=no"> -->
+	<!--Запрет тндексации страницы полностью - <meta name="robots" content="none">-->
+	<!--Фиксированная ширина: ЕСЛИ АДАПТИВ НЕ НУЖЕН - <meta name="viewport" content="width=1170" > -->
+	<meta name="viewport" content="width=device-width, initial-scale=1.0">
+	<meta http-equiv="X-UA-Compatible" content="IE=edge">
+	<!--Для SEO-->
+	<meta name="description" content="описание до 140 символов.">
+	<meta name="keywords" content="теги - слова через запяиые, не больше 20 слов.">
+	<!--Стили CSS-->
+	<link rel="stylesheet" href="css/style.css" />
+	<title>Ребус-шмебус</title>
+</head>
+
+<!-- (=^-^)= Обучайся, развтвайся и помни: ЖИВИ! а работай в свободное время =(^-^=) -->
+<body>
+	<a href="template-docs.html" onmouseover="changeBackgroundColor(true)" onmouseout="changeBackgroundColor(false)"
+		class="button">Go...?</a>
+</body>
+<style>
+	body {
+		display: flex;
+		flex-direction: column;
+		justify-content: center;
+		align-items: center;
+		height: 100vh;
+		background-color: #511b1b;
+		transition: background-color 0.2s;
+	}
+
+	.button {
+		font-size: 6vh;
+		font-family: Arial, "Helvetica Neue", Helvetica, sans-serif;
+		text-decoration: none;
+		color: #511b1b;
+		transition: all 0.4s;
+	}
+
+	.button:hover {
+		color: #bec321;
+	}
+
+	body.dark-background {
+		background-color: #181515;
+	}
+</style>
+
+<script>
+	function changeBackgroundColor(isHovered) {
+		const body = document.body;
+		if (isHovered) {
+			body.classList.add('dark-background');
+		} else {
+			body.classList.remove('dark-background');
+		}
+	}
+</script>
+
+</html>
+<!--</Вставка helper> — Блок ЗАКРЫТ:↑———————————————————————————————↑-->

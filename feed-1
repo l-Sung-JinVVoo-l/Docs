@@ -1,0 +1,556 @@
+<?xml version="1.0" encoding="UTF-8"?><rss version="2.0"
+	xmlns:content="http://purl.org/rss/1.0/modules/content/"
+	xmlns:wfw="http://wellformedweb.org/CommentAPI/"
+	xmlns:dc="http://purl.org/dc/elements/1.1/"
+	xmlns:atom="http://www.w3.org/2005/Atom"
+	xmlns:sy="http://purl.org/rss/1.0/modules/syndication/"
+	xmlns:slash="http://purl.org/rss/1.0/modules/slash/"
+	>
+
+<channel>
+	<title>Чертоги Фрілансера &#8211; стартовый шаблон для розробки сайтів</title>
+	<atom:link href="https://template.fls.guru/feed" rel="self" type="application/rss+xml" />
+	<link>https://template.fls.guru</link>
+	<description>Чертоги Фрілансера - стартовый шаблон для розробки сайтів</description>
+	<lastBuildDate>Tue, 28 Nov 2023 06:09:01 +0000</lastBuildDate>
+	<language>uk</language>
+	<sy:updatePeriod>
+	hourly	</sy:updatePeriod>
+	<sy:updateFrequency>
+	1	</sy:updateFrequency>
+	<generator>https://wordpress.org/?v=6.4.2</generator>
+
+<image>
+	<url>https://template.fls.guru/wp-content/uploads/2022/01/cropped-favicon-32x32.png</url>
+	<title>Чертоги Фрілансера &#8211; стартовый шаблон для розробки сайтів</title>
+	<link>https://template.fls.guru</link>
+	<width>32</width>
+	<height>32</height>
+</image> 
+	<item>
+		<title>Навіщо потрібні «Чертоги Фрілансера» v3? Презентація шаблону та його можливості</title>
+		<link>https://template.fls.guru/template-docs/dlya-chego-nuzhny-chertogi-frilansera-v3-prezentaciya-shablona-i-ego-vozmozhnostej.html</link>
+		
+		<dc:creator><![CDATA[Фрілансер по життю]]></dc:creator>
+		<pubDate>Fri, 31 Dec 2021 11:55:28 +0000</pubDate>
+				<category><![CDATA[Документація «Чертоги Фрілансера» v3.0.0]]></category>
+		<guid isPermaLink="false">https://template.fls.guru/?p=10</guid>
+
+					<description><![CDATA[Привіт! Це Фрілансер по життю і я радий представити вам свій стартовий шаблон для комфортної розробки сайтів &#8220;Чертоги Фрілансера&#8221; v3.0.0 (далі ЧФ) Слово &#8220;чертоги&#8221; означає палац, замок, хороми. Назва походить від стійкого виразу &#8220;Чортоги розуму&#8221;, як місце для зберігання чогось важливого. Зміст: Що таке стартовий шаблон і для чого він потрібний? Давайте уявімо звичайний процес [&#8230;]]]></description>
+										<content:encoded><![CDATA[
+<blockquote class="wp-block-quote">
+<p>Привіт! Це Фрілансер по життю і я радий представити вам свій стартовий шаблон для комфортної розробки сайтів <a rel="noreferrer noopener" href="https://www.patreon.com/posts/startovyi-v3-59380989" target="_blank">&#8220;Чертоги Фрілансера&#8221; v3.0.0</a> (далі ЧФ)</p>
+<cite>Слово &#8220;чертоги&#8221; означає палац, замок, хороми. Назва походить від стійкого виразу &#8220;Чортоги розуму&#8221;, як місце для зберігання чогось важливого.</cite></blockquote>
+
+
+
+<div class="wp-block-group is-layout-flow wp-block-group-is-layout-flow"><div class="wp-block-group__inner-container">
+<p><strong>Зміст:</strong></p>
+
+
+
+<ul>
+<li><a data-goto-top="15" data-goto-header="" data-goto=".whatItIs" href="#">Що таке стартовий шаблон і навіщо він потрібний?</a></li>
+
+
+
+<li><a data-goto-top="15" data-goto-header="" data-goto=".opportunities" href="#">Можливості &#8220;Чертогів Фрілансера&#8221; v3.0.0</a></li>
+</ul>
+</div></div>
+
+
+
+<div class="wp-block-group is-layout-flow wp-block-group-is-layout-flow"><div class="wp-block-group__inner-container"><div class="wp-block-image">
+<figure class="aligncenter size-full is-resized"><img fetchpriority="high" decoding="async" width="620" height="349" src="https://template.fls.guru/wp-content/uploads/2022/11/cover.webp" alt="" class="wp-image-1980" srcset="https://template.fls.guru/wp-content/uploads/2022/11/cover.webp 620w, https://template.fls.guru/wp-content/uploads/2022/11/cover-300x169.webp 300w, https://template.fls.guru/wp-content/uploads/2022/11/cover-250x141.webp 250w" sizes="(max-width: 620px) 100vw, 620px" /></figure></div></div></div>
+
+
+
+<h2 class="wp-block-heading whatItIs" id="что-такое-стартовый-шаблон-и-для-чего-он-нужен">Що таке стартовий шаблон і для чого він потрібний?</h2>
+
+
+
+<p>Давайте уявімо звичайний процес підготовки до верстки/розробці сайту. Ми створюємо ієрархію папок та файлів, налаштовуємо той чи інший збирач проекту, підключаємо основні JS-доповнення для роботи тощо.</p>
+
+
+
+<p>А під час розробки, щоразу виконуємо одні й ті самі дії: конвертуємо шрифти, оптимізуємо картинки, пишемо один і той же код для вирішення стандартних завдань. Адже меню-бургер, слайдери, попапи, таби, валідація та відправлення форм, спойлери, галереї тощо давно стали невід&#8217;ємними частинами будь-якого сучасного сайту. </p>
+
+
+
+<p>Крім стандартного функціоналу, нам час від часу необхідно вирішувати як складніші завдання пов&#8217;язані з хотелками дизайнера/замовника, так і допрацьовувати стандартні модулі під конкретні потреби.</p>
+
+
+
+<blockquote class="wp-block-quote">
+<p>Так ось, <a href="http://www.weblancer.net/?affiliate=bliznets" target="_blank" rel="noreferrer noopener">я більше 10 років розробляю сайти на фрілансі</a> і встиг попрацювати з найрізноманітнішими дазайн-макетами, а також з багатьма замовниками та їхніми хотелками.</p>
+</blockquote>
+
+
+
+<p>У міру вирішення завдань я всіляко намагався оптимізувати і автоматизувати рутинні процеси. А найпотрібніші та вдалі HTML/CSS/JS рішення складати у свої чертоги.</p>
+
+
+
+<p>Поряд із стандартним функціоналом стали з&#8217;являтися і власні розробки та рішення. Наприклад <a rel="noreferrer noopener" href="https://template.fls.guru/template-docs/scss-miksin-otzyvchivoe-svojstvo.html" target="_blank">чуйна властивість</a>, <a rel="noreferrer noopener" href="https://template.fls.guru/template-docs/dinamicheskij-adaptiv.html" target="_blank">динамічний адаптив</a> и т.п.</p>
+
+
+
+<p>В результаті, за стільки років добра накопичилося достатньо для того, щоб розробка з використанням ЧФ перетворилася на суцільне задоволення.</p>
+
+
+
+<p><a href="https://template.fls.guru/template-docs/arhitektura-shablona-fajly-i-papki.html" target="_blank" rel="noreferrer noopener">Зручна архітектура папок та файлів</a>,  автоматизація всіх рутинних процесів, не лише стандартний JS-функціонал, а й рішення, що дозволяють задовольнити кастомні, унікальні запити. При цьому, ніякого зайвого коду, підключається тільки потрібний функціонал для конкретного проекту, що робить результат розробки з ЧФ максимально оптимізованим і швидким.</p>
+
+
+
+<div class="wp-block-group is-layout-flow wp-block-group-is-layout-flow"><div class="wp-block-group__inner-container">
+<p>Відповідаючи на запитання, що таке стартовий шаблон і навіщо він потрібен, я наведу три основні пункти:</p>
+
+
+
+<ol>
+<li>Стартовий шаблон <a rel="noreferrer noopener" href="https://www.patreon.com/posts/startovyi-v3-59380989" target="_blank">&#8220;Чертоги Фрілансера&#8221; v3.0.0</a> &#8211; це сукупність оптимізації та автоматизації рутинних процесів під час розробки сайтів. База великої кількості як стандартних так і унікальних рішень, які допоможуть вирішити безліч завдань, що виникають за лічені секунди.</li>
+
+
+
+<li>ЧФ розроблений так, щоб не притупляти ваші навички у розробці. Знайдено баланс між готовими рішеннями та повним розумінням користувачем шаблону того, як усе влаштовано &#8220;під капотом&#8221;. Також вкрай докладне коментування коду робить із ЧФ навчальний інструмент для розвитку вас як спеціалістів. </li>
+
+
+
+<li><strong>Шаблон &#8220;Чортоги Фрілансера&#8221; – працює з розробником, а не замість нього!</strong></li>
+</ol>
+</div></div>
+
+
+
+<h2 class="wp-block-heading opportunities" id="возможности-чертогов-фрилансера-v3-0-0">Можливості &#8220;Чертогов Фрілансера&#8221; v3.0.0</h2>
+
+
+
+<p>Тут зібрані всі можливості стартового шаблону, включаючи можливості інструменту для збірки проєкту. Дані оновлюватимуться в міру додавання функціоналу.</p>
+
+
+
+<h3 class="wp-block-heading" id="сборщики-и-их-режимы-работы">Інструменти для збірки проєкту та їх режими роботи</h3>
+
+
+
+<p>У шаблоні працюють два інструменти GULP і WEBPACK, кожен робить те, в чому він хороший. Є можливість працювати в режимах розробки та продакшену. Режим розробки виконує лише необхідні роботи, а продакшн забезпечує оптимізацію файлів, конвертацію та інші необхідні дії. Таким чином, підвищується швидкість роботи інструментів. Додам, що тип роботи вказаний у package.json дорівнює module</p>
+
+
+
+<div class="wp-block-group is-layout-flow wp-block-group-is-layout-flow"><div class="wp-block-group__inner-container">
+<h3 class="wp-block-heading" id="сборщик-gulp">Інструмент GULP</h3>
+
+
+
+<p>GULP відіграє роль допоміжного інструменту і виконує такі завдання:</p>
+
+
+
+<ul>
+<li>Очищає папку з результатом [всі режими]</li>
+
+
+
+<li>Створює файл .gitignore із зазначеним вмістом [всі режими]</li>
+
+
+
+<li><a rel="noreferrer noopener" href="https://template.fls.guru/template-docs/rabota-so-shriftami.html" target="_blank">Конвертує шрифти з .OTF та .TTF у .WOFF та .WOFF2.  Записує дані у файл стилів, зокрема формує font-weight на основі імені файлу.</a> [всі режими]</li>
+
+
+
+<li>Обробляє HTML файли: додає конструкцію із зображенням у .WEBP форматі, додає до підключених JS CSS файлів версію, що дозволяє уникнути проблем із кешуванням під час демонстрації роботи. [режим продакшену]</li>
+
+
+
+<li>Обробляє CSS файли: групує медіа-запити, додає вендорні префікси для забезпечення кросбраузерності, додає підключення . WEBP зображення, оптимізує та стискає файл. [режим продакшену]</li>
+
+
+
+<li>Обробляє JS файли: тільки передає інформацію до WEBPACK [режим продакшена]</li>
+
+
+
+<li>Обробляє файли зображень: стискає та оптимізує формати .JPG, .PNG, .SVG. На основі .JPG/.PNG файлів формується .WEBP зображення. [режим продакшену]</li>
+
+
+
+<li><a href="https://template.fls.guru/template-docs/rabota-s-svg-sprajtami.html" target="_blank" rel="noreferrer noopener">Створює SVG-спрайт</a></li>
+
+
+
+<li>Відправляє файли з результатом на сервер FTP [режим продакшена]</li>
+
+
+
+<li>Створює ZIP архів з результатом [режим продакшену]</li>
+</ul>
+
+
+
+<h3 class="wp-block-heading" id="сборщик-webpack"> Інструмент WEBPACK</h3>
+
+
+
+<p>  WEBPACK відіграє основну роль збирання HTML/SCSS/JS файлів і виконує такі завдання: </p>
+
+
+
+<ul>
+<li>Запускає локальний сервер та відкриває HTML сторінки результату у браузері. При внесенні змін сам оновлює сторінку. Підключено модуль гарячої заміни, що збільшує швидкість оновлення. Також створені файли не пишуться на диск, а знаходяться в пам&#8217;яті. [режим розробника]</li>
+
+
+
+<li>Обробляє SCSS файли: проводиться перетворення на CSS файли, перейменовуються псевдоніми [всі режими]</li>
+
+
+
+<li>Обробляє HTML файли: проводиться збірка файлів з частин, що підключаються, перейменовуються псевдоніми [всі режими]</li>
+
+
+
+<li>Обробляє PUG файли: проводиться збірка файлів з частин, що підключаються, перейменовуються псевдоніми, проводиться перетворення в HTML файли [всі режими]</li>
+
+
+
+<li>Обробляє JS файли: проводиться грамотне складання підключених модулів, таким чином у файл з результатом потрапляє лише задіяний у проекті код [всі режими], файл стискується та оптимізується [режим продакшена]</li>
+
+
+
+<li>Копіює файли з папки files до папки з результатом [всі режими]</li>
+</ul>
+
+
+
+<h3 class="wp-block-heading" id="возможности-работы-с-html-файлами">Можливості роботи з HTML файлами</h3>
+
+
+
+<p>HTML файли можна збирати з частин завдяки шаблонизатору <a rel="noreferrer noopener" href="https://www.npmjs.com/package/file-include-webpack-plugin" target="_blank">FileInclude</a>. Тобто ми можемо винести окремі частини коду, наприклад header та footer, в окремі файли та підключати їх для всіх сторінок сайту. Таким чином, при необхідності внести зміни, нам достатньо редагувати тільки один файл, що підключається. FileInclude дозволяє передавати змінні зі значенням в файл, що підключається. Наприклад, ми можемо передати свій заголовок (title) для кожної сторінки.</p>
+
+
+
+<h3 class="wp-block-heading" id="шаблонизатор-pug">Шаблонизатор PUG</h3>
+
+
+
+<p>Якщо вам не вистачає можливостей FileInclude, ви можете використовувати шаблонизатор PUG і всі його можливості. Складання сама обробить PUG-файли і перетворює на HTML. <a href="https://template.fls.guru/template-docs/rabota-s-shablonizatorom-pug.html" data-type="URL" data-id="https://template.fls.guru/template-docs/rabota-s-shablonizatorom-pug.html" target="_blank" rel="noreferrer noopener">Докладніше&#8230;</a></p>
+
+
+
+<h3 class="wp-block-heading" id="использование-препроцессора-sass-scss-возможности-при-работе-со-стилями">Використання препроцесора SASS/SCSS, можливості роботи зі стилями</h3>
+
+
+
+<p>У шаблоні використовується препроцесор SASS у синтаксисі SCSS. Завдяки цьому є можливість порадувати вас відмінними напрацюваннями:</p>
+
+
+
+<ul>
+<li><a href="https://template.fls.guru/template-docs/scss-miksin-otzyvchivoe-svojstvo.html" target="_blank" rel="noreferrer noopener">Чуйна властивість</a>. Міксин, дозволяє задати значення для тієї чи іншої властивості, яка буде залежати від ширини екрана (в&#8217;юпорта), що в свою чергу відкриває колосальні можливості для адаптивної (чуйної) верстки.</li>
+
+
+
+<li><a rel="noreferrer noopener" href="https://template.fls.guru/template-docs/arhitektura-shablona-fajly-i-papki.html" target="_blank">Архітектура файлів, що підключаються</a> дозволяє використовувати тільки те, що потрібно для конкретного проекту.</li>
+
+
+
+<li>Готові базові стилі для різних JS модулів</li>
+</ul>
+</div></div>
+
+
+
+<h3 class="wp-block-heading aboutJS" id="javascript-возможности-использование-модулей">JavaScript можливості, використання модулів</h3>
+
+
+
+<p>Зазначу, що оскільки JS файли збирає WEBPACK, то з&#8217;являється можливість використовувати підключення ES6 модулів. Таким чином, у результат потрапляє тільки використовуваний функціонал. Для додавання тієї чи іншої можливості зазвичай досить розкоментувати рядок. Також кожен модуль зручно управляється та налаштовується за допомогою дата атрибутів у HTML/PUG файлах, а сам код детально прокоментовано.</p>
+
+
+
+<p>Ось перелік готового JS функціоналу &#8220;Чертогов Фрілансера&#8221; (для подробиць клацніть на назву модуля):</p>
+
+
+
+<h4 class="wp-block-heading" id="общие-модули">Загальні модулі</h4>
+
+
+
+<ul>
+<li><a href="https://template.fls.guru/template-docs/modul-taby.html" target="_blank" rel="noreferrer noopener">Таби</a> з можливістю перетворення на спойлери на вказаній ширині екрана та іншими налаштуваннями</li>
+
+
+
+<li><a rel="noreferrer noopener" href="https://template.fls.guru/template-docs/modul-spojlery.html" target="_blank">Спойлери</a> з можливістю включення на вказаній ширині екрана та іншими налаштуваннями</li>
+
+
+
+<li><a href="https://template.fls.guru/template-docs/modul-pokazat-eshhjo.html" target="_blank" rel="noreferrer noopener">Модуль &#8220;Показати ще&#8221;</a> з можливістю включення на вказаній ширині екрана та іншими налаштуваннями</li>
+
+
+
+<li><a rel="noreferrer noopener" href="https://template.fls.guru/template-docs/funkcional-popup.html" target="_blank">Попапи</a> (спливаючі/модальні вікна) з перемиканням фокусу, відкриттям по хешу та іншим</li>
+
+
+
+<li>Галерея (придбана ліцензія галереї lightgallery js)</li>
+
+
+
+<li>Слайдер Swiper та додаткові можливості для інтеграції з іншими модулями</li>
+
+
+
+<li>Підказки (tippy.js)</li>
+
+
+
+<li><a href="https://template.fls.guru/template-docs/menu-burger.html" target="_blank" rel="noreferrer noopener">Функціонал меню &#8220;бургер&#8221;</a></li>
+
+
+
+<li>Функціонал визначення підтримки WEBP формату</li>
+
+
+
+<li>Допоміжні, загальні для багатьох модулів, функції блокування прокручування з компенсацією скроллбара, плавного розкриття блоку, збір та унікальність медіа-запитів, форматування чисел, виправлення помилки повноекранного блоку на мобільних та багато іншого.</li>
+</ul>
+
+
+
+<h4 class="wp-block-heading" id="модули-работы-с-формами">Модулі роботи з формами</h4>
+
+
+
+<ul>
+<li><a rel="noreferrer noopener" href="https://template.fls.guru/template-docs/rabota-s-formami.html" target="_blank">Робота з полями введення</a>, додавання класів, робота з placeholder</li>
+
+
+
+<li><a rel="noreferrer noopener" href="https://template.fls.guru/template-docs/rabota-s-formami.html" target="_blank">Валідація полів</a>, можливість моментальної валідації</li>
+
+
+
+<li><a href="https://template.fls.guru/template-docs/rabota-s-formami.html" target="_blank" rel="noreferrer noopener">Функціонал показу пароля</a></li>
+
+
+
+<li><a href="https://template.fls.guru/template-docs/rabota-s-formami.html" target="_blank" rel="noreferrer noopener">Надсилання форм у різних режимах</a>: звичайний, AJAX, режим розробника. Можливість виведення попапа після надсилання форми.</li>
+
+
+
+<li><a href="https://template.fls.guru/template-docs/funkcional-kastomizacii-select.html" target="_blank" rel="noreferrer noopener">Модуль кастомізації елемента SELECT</a> з великим набором можливостей</li>
+
+
+
+<li>Модуль роботи з масками полів вводу</li>
+
+
+
+<li>Модуль повзунка (range) для вказівки значень поля</li>
+
+
+
+<li>Модуль зіркового рейтингу</li>
+
+
+
+<li>Модуль вказівки кількості кнопками + та &#8211;</li>
+</ul>
+
+
+
+<h4 class="wp-block-heading" id="модули-работы-с-прокруткой-страницы">Модулі роботи з прокручуванням сторінки</h4>
+
+
+
+<ul>
+<li>Зміна дизайну скроллбару</li>
+
+
+
+<li><a rel="noreferrer noopener" href="https://template.fls.guru/template-docs/modul-lenivaya-podgruzka-lazy-loading.html" target="_blank">Ледаче (відкладене) завантаження даних (lazyload)</a>: зображення, відео, iframe і т.д. при прокручуванні сторінки</li>
+
+
+
+<li>Спостерігач за появою елементів. Дозволяє створювати анімацію та багато іншого в момент появи/догляду елемента з видимої області екрана (блоку)</li>
+
+
+
+<li><a href="https://template.fls.guru/template-docs/modul-plavnoj-navigacii-po-stranice.html" target="_blank" rel="noreferrer noopener">Навігація по сторінці</a> (прокручування до потрібного елемента). Також є можливість додавання класу до активного пункту навігації.</li>
+
+
+
+<li><a rel="noreferrer noopener" href="https://template.fls.guru/template-docs/modul-dobavleniya-klassov-k-shapke-pri-prokrutke-stranicy.html" target="_blank">Робота з шапкою сайту при прокручуванні сторінки</a> з додатковими можливостями</li>
+
+
+
+<li>&#8220;Липкий&#8221; блок. Можливість закріплювати елемент при прокручуванні з гнучкими налаштуваннями</li>
+</ul>
+
+
+
+<h4 class="wp-block-heading" id="модули-для-создания-параллакс-эффекта">Модулі для створення паралакс-ефекту</h4>
+
+
+
+<p>Модуль паралаксу мишею. Елементи плавно реагують на рух мишею </p>
+
+
+
+<h4 class="wp-block-heading" id="система-глобального-логгинга-full-logging-system-или-fls">Система глобального логінгу (Full Logging System или FLS)</h4>
+
+
+
+<p>Я подумав, чому б не навчити функціонал ЧФ спілкуватися (звітувати) про свою роботу користувачеві в консолі? Це дуже зручно в процесі розробки та має навчальний ефект. <a rel="noreferrer noopener" href="#" target="_blank">Докладніше</a></p>
+
+
+
+<blockquote class="wp-block-quote">
+<p>Список постійно поповнюватиметься новими можливостями. Слідкуйте за <a rel="noreferrer noopener" href="https://template.fls.guru/updates" target="_blank">оновленнями</a>.<br>Дякую за <a rel="noreferrer noopener" href="https://www.patreon.com/freelancerlifestyle" target="_blank">підтримку</a> каналу <a rel="noreferrer noopener" href="https://www.youtube.com/c/freelancerlifestyle" target="_blank">&#8220;Фрілансер по життю&#8221;</a> та безкоштовного навчального контенту! </p>
+<cite>Навчися розвивайся та пам&#8217;ятай &#8211; живи, а працюй у вільний час!</cite></blockquote>
+]]></content:encoded>
+					
+		
+		
+			</item>
+		<item>
+		<title>Встановлення та запуск шаблону. Підготовка до роботи</title>
+		<link>https://template.fls.guru/template-docs/install.html</link>
+		
+		<dc:creator><![CDATA[Фрілансер по життю]]></dc:creator>
+		<pubDate>Fri, 31 Dec 2021 16:08:39 +0000</pubDate>
+				<category><![CDATA[Документація «Чертоги Фрілансера» v3.0.0]]></category>
+		<guid isPermaLink="false">https://template.fls.guru/?p=12</guid>
+
+					<description><![CDATA[Привет! Этот контент доступен только подписчикам на патреоне с доступом к стартовому шаблону "Чертоги Фрилансера" версия №3Буду рад подписке на патреон: - Click "Read more" to unlock this content at the source]]></description>
+										<content:encoded><![CDATA[<div class="patreon-campaign-banner"><div class="patreon-locked-content-message">Привет! Этот контент доступен только подписчикам на <a href="https://www.patreon.com/freelancerlifestyle" target="_blank" rel="noopener">патреоне </a> с доступом  <br> к стартовому шаблону <a href="https://www.patreon.com/posts/startovyi-v3-59380989" target="_blank" rel="noopener">"Чертоги Фрилансера" версия №3</a></div><div class="patreon-patron-button-wrapper"><div class="patreon-text-over-button">Буду рад подписке на патреон:</div><div class="patreon-universal-button"></div><div class="patreon-text-under-button"> - Click "Read more" to unlock this content at the source</div></div></div>]]></content:encoded>
+					
+		
+		
+			</item>
+		<item>
+		<title>Архітектура шаблону. Файли та папки</title>
+		<link>https://template.fls.guru/template-docs/arhitektura-shablona-fajly-i-papki.html</link>
+		
+		<dc:creator><![CDATA[Фрілансер по життю]]></dc:creator>
+		<pubDate>Fri, 31 Dec 2021 16:11:57 +0000</pubDate>
+				<category><![CDATA[Документація «Чертоги Фрілансера» v3.0.0]]></category>
+		<guid isPermaLink="false">https://template.fls.guru/?p=14</guid>
+
+					<description><![CDATA[Привет! Этот контент доступен только подписчикам на патреоне с доступом к стартовому шаблону "Чертоги Фрилансера" версия №3Буду рад подписке на патреон: - Click "Read more" to unlock this content at the source]]></description>
+										<content:encoded><![CDATA[<div class="patreon-campaign-banner"><div class="patreon-locked-content-message">Привет! Этот контент доступен только подписчикам на <a href="https://www.patreon.com/freelancerlifestyle" target="_blank" rel="noopener">патреоне </a> с доступом  <br> к стартовому шаблону <a href="https://www.patreon.com/posts/startovyi-v3-59380989" target="_blank" rel="noopener">"Чертоги Фрилансера" версия №3</a></div><div class="patreon-patron-button-wrapper"><div class="patreon-text-over-button">Буду рад подписке на патреон:</div><div class="patreon-universal-button"></div><div class="patreon-text-under-button"> - Click "Read more" to unlock this content at the source</div></div></div>]]></content:encoded>
+					
+		
+		
+			</item>
+		<item>
+		<title>Робота зі шрифтами. Локальні та іконочні шрифти. Підключення з Google Fonts</title>
+		<link>https://template.fls.guru/template-docs/rabota-so-shriftami.html</link>
+		
+		<dc:creator><![CDATA[Фрілансер по життю]]></dc:creator>
+		<pubDate>Sat, 01 Jan 2022 07:08:00 +0000</pubDate>
+				<category><![CDATA[Документація «Чертоги Фрілансера» v3.0.0]]></category>
+		<guid isPermaLink="false">https://template.fls.guru/?p=359</guid>
+
+					<description><![CDATA[Привет! Этот контент доступен только подписчикам на патреоне с доступом к стартовому шаблону "Чертоги Фрилансера" версия №3Буду рад подписке на патреон: - Click "Read more" to unlock this content at the source]]></description>
+										<content:encoded><![CDATA[<div class="patreon-campaign-banner"><div class="patreon-locked-content-message">Привет! Этот контент доступен только подписчикам на <a href="https://www.patreon.com/freelancerlifestyle" target="_blank" rel="noopener">патреоне </a> с доступом  <br> к стартовому шаблону <a href="https://www.patreon.com/posts/startovyi-v3-59380989" target="_blank" rel="noopener">"Чертоги Фрилансера" версия №3</a></div><div class="patreon-patron-button-wrapper"><div class="patreon-text-over-button">Буду рад подписке на патреон:</div><div class="patreon-universal-button"></div><div class="patreon-text-under-button"> - Click "Read more" to unlock this content at the source</div></div></div>]]></content:encoded>
+					
+		
+		
+			</item>
+		<item>
+		<title>Робота з SVG-спрайтами</title>
+		<link>https://template.fls.guru/template-docs/rabota-s-svg-sprajtami.html</link>
+		
+		<dc:creator><![CDATA[Фрілансер по життю]]></dc:creator>
+		<pubDate>Sat, 01 Jan 2022 07:10:00 +0000</pubDate>
+				<category><![CDATA[Документація «Чертоги Фрілансера» v3.0.0]]></category>
+		<guid isPermaLink="false">https://template.fls.guru/?p=1692</guid>
+
+					<description><![CDATA[Привет! Этот контент доступен только подписчикам на патреоне с доступом к стартовому шаблону "Чертоги Фрилансера" версия №3Буду рад подписке на патреон: - Click "Read more" to unlock this content at the source]]></description>
+										<content:encoded><![CDATA[<div class="patreon-campaign-banner"><div class="patreon-locked-content-message">Привет! Этот контент доступен только подписчикам на <a href="https://www.patreon.com/freelancerlifestyle" target="_blank" rel="noopener">патреоне </a> с доступом  <br> к стартовому шаблону <a href="https://www.patreon.com/posts/startovyi-v3-59380989" target="_blank" rel="noopener">"Чертоги Фрилансера" версия №3</a></div><div class="patreon-patron-button-wrapper"><div class="patreon-text-over-button">Буду рад подписке на патреон:</div><div class="patreon-universal-button"></div><div class="patreon-text-under-button"> - Click "Read more" to unlock this content at the source</div></div></div>]]></content:encoded>
+					
+		
+		
+			</item>
+		<item>
+		<title>Робота з шаблонізатором PUG</title>
+		<link>https://template.fls.guru/template-docs/rabota-s-shablonizatorom-pug.html</link>
+		
+		<dc:creator><![CDATA[Фрілансер по життю]]></dc:creator>
+		<pubDate>Sat, 01 Jan 2022 07:11:00 +0000</pubDate>
+				<category><![CDATA[Документація «Чертоги Фрілансера» v3.0.0]]></category>
+		<guid isPermaLink="false">https://template.fls.guru/?p=1754</guid>
+
+					<description><![CDATA[Привет! Этот контент доступен только подписчикам на патреоне с доступом к стартовому шаблону "Чертоги Фрилансера" версия №3Буду рад подписке на патреон: - Click "Read more" to unlock this content at the source]]></description>
+										<content:encoded><![CDATA[<div class="patreon-campaign-banner"><div class="patreon-locked-content-message">Привет! Этот контент доступен только подписчикам на <a href="https://www.patreon.com/freelancerlifestyle" target="_blank" rel="noopener">патреоне </a> с доступом  <br> к стартовому шаблону <a href="https://www.patreon.com/posts/startovyi-v3-59380989" target="_blank" rel="noopener">"Чертоги Фрилансера" версия №3</a></div><div class="patreon-patron-button-wrapper"><div class="patreon-text-over-button">Буду рад подписке на патреон:</div><div class="patreon-universal-button"></div><div class="patreon-text-under-button"> - Click "Read more" to unlock this content at the source</div></div></div>]]></content:encoded>
+					
+		
+		
+			</item>
+		<item>
+		<title>STYLE.SCSS &#8211; налаштування адаптивної сітки, шрифтів, підключення дочірніх файлів</title>
+		<link>https://template.fls.guru/template-docs/osnovnoj-fajl-stilej-style-scss-nastrojka-adaptivnoj-setki-i-prochee.html</link>
+		
+		<dc:creator><![CDATA[Фрілансер по життю]]></dc:creator>
+		<pubDate>Sat, 01 Jan 2022 18:48:00 +0000</pubDate>
+				<category><![CDATA[Документація «Чертоги Фрілансера» v3.0.0]]></category>
+		<guid isPermaLink="false">https://template.fls.guru/?p=979</guid>
+
+					<description><![CDATA[Привет! Этот контент доступен только подписчикам на патреоне с доступом к стартовому шаблону "Чертоги Фрилансера" версия №3Буду рад подписке на патреон: - Click "Read more" to unlock this content at the source]]></description>
+										<content:encoded><![CDATA[<div class="patreon-campaign-banner"><div class="patreon-locked-content-message">Привет! Этот контент доступен только подписчикам на <a href="https://www.patreon.com/freelancerlifestyle" target="_blank" rel="noopener">патреоне </a> с доступом  <br> к стартовому шаблону <a href="https://www.patreon.com/posts/startovyi-v3-59380989" target="_blank" rel="noopener">"Чертоги Фрилансера" версия №3</a></div><div class="patreon-patron-button-wrapper"><div class="patreon-text-over-button">Буду рад подписке на патреон:</div><div class="patreon-universal-button"></div><div class="patreon-text-under-button"> - Click "Read more" to unlock this content at the source</div></div></div>]]></content:encoded>
+					
+		
+		
+			</item>
+		<item>
+		<title>SCSS-Міксин &#8220;Чуйна (адаптивна) властивість&#8221;</title>
+		<link>https://template.fls.guru/template-docs/scss-miksin-otzyvchivoe-svojstvo.html</link>
+		
+		<dc:creator><![CDATA[Фрілансер по життю]]></dc:creator>
+		<pubDate>Sun, 02 Jan 2022 09:40:00 +0000</pubDate>
+				<category><![CDATA[Документація «Чертоги Фрілансера» v3.0.0]]></category>
+		<guid isPermaLink="false">https://template.fls.guru/?p=1190</guid>
+
+					<description><![CDATA[Привет! Этот контент доступен только подписчикам на патреоне с доступом к стартовому шаблону "Чертоги Фрилансера" версия №3Буду рад подписке на патреон: - Click "Read more" to unlock this content at the source]]></description>
+										<content:encoded><![CDATA[<div class="patreon-campaign-banner"><div class="patreon-locked-content-message">Привет! Этот контент доступен только подписчикам на <a href="https://www.patreon.com/freelancerlifestyle" target="_blank" rel="noopener">патреоне </a> с доступом  <br> к стартовому шаблону <a href="https://www.patreon.com/posts/startovyi-v3-59380989" target="_blank" rel="noopener">"Чертоги Фрилансера" версия №3</a></div><div class="patreon-patron-button-wrapper"><div class="patreon-text-over-button">Буду рад подписке на патреон:</div><div class="patreon-universal-button"></div><div class="patreon-text-under-button"> - Click "Read more" to unlock this content at the source</div></div></div>]]></content:encoded>
+					
+		
+		
+			</item>
+		<item>
+		<title>Модуль меню «бургер»</title>
+		<link>https://template.fls.guru/template-docs/menu-burger.html</link>
+		
+		<dc:creator><![CDATA[Фрілансер по життю]]></dc:creator>
+		<pubDate>Sun, 02 Jan 2022 18:59:14 +0000</pubDate>
+				<category><![CDATA[Документація «Чертоги Фрілансера» v3.0.0]]></category>
+		<guid isPermaLink="false">https://template.fls.guru/?p=198</guid>
+
+					<description><![CDATA[Привет! Этот контент доступен только подписчикам на патреоне с доступом к стартовому шаблону "Чертоги Фрилансера" версия №3Буду рад подписке на патреон: - Click "Read more" to unlock this content at the source]]></description>
+										<content:encoded><![CDATA[<div class="patreon-campaign-banner"><div class="patreon-locked-content-message">Привет! Этот контент доступен только подписчикам на <a href="https://www.patreon.com/freelancerlifestyle" target="_blank" rel="noopener">патреоне </a> с доступом  <br> к стартовому шаблону <a href="https://www.patreon.com/posts/startovyi-v3-59380989" target="_blank" rel="noopener">"Чертоги Фрилансера" версия №3</a></div><div class="patreon-patron-button-wrapper"><div class="patreon-text-over-button">Буду рад подписке на патреон:</div><div class="patreon-universal-button"></div><div class="patreon-text-under-button"> - Click "Read more" to unlock this content at the source</div></div></div>]]></content:encoded>
+					
+		
+		
+			</item>
+		<item>
+		<title>Модуль &#8220;Popup&#8221;. Випливаючі (модальні) вікна</title>
+		<link>https://template.fls.guru/template-docs/funkcional-popup.html</link>
+		
+		<dc:creator><![CDATA[hmutyikoot]]></dc:creator>
+		<pubDate>Fri, 07 Jan 2022 08:43:13 +0000</pubDate>
+				<category><![CDATA[Документація «Чертоги Фрілансера» v3.0.0]]></category>
+		<guid isPermaLink="false">https://template.fls.guru/?p=532</guid>
+
+					<description><![CDATA[Привет! Этот контент доступен только подписчикам на патреоне с доступом к стартовому шаблону "Чертоги Фрилансера" версия №3Буду рад подписке на патреон: - Click "Read more" to unlock this content at the source]]></description>
+										<content:encoded><![CDATA[<div class="patreon-campaign-banner"><div class="patreon-locked-content-message">Привет! Этот контент доступен только подписчикам на <a href="https://www.patreon.com/freelancerlifestyle" target="_blank" rel="noopener">патреоне </a> с доступом  <br> к стартовому шаблону <a href="https://www.patreon.com/posts/startovyi-v3-59380989" target="_blank" rel="noopener">"Чертоги Фрилансера" версия №3</a></div><div class="patreon-patron-button-wrapper"><div class="patreon-text-over-button">Буду рад подписке на патреон:</div><div class="patreon-universal-button"></div><div class="patreon-text-under-button"> - Click "Read more" to unlock this content at the source</div></div></div>]]></content:encoded>
+					
+		
+		
+			</item>
+	</channel>
+</rss>
